@@ -44,6 +44,9 @@ https://github.com/user-attachments/assets/356d8c84-9de6-4c6f-9cf1-630f13e69069
 [Watch the demo](./result_video.mp4)
 
 
+https://github.com/user-attachments/assets/507f3bcc-2f0b-40ac-bbae-c80c80d7af7d
+
+
 🌟 Star this repository if you find it useful!
 
 📣 For any questions or suggestions 📧 [Contact Me](mailto:mahadsabih789789@gmail.com)
