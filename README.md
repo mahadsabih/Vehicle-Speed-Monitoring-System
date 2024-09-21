@@ -41,7 +41,7 @@ Check out our system in action:
 
 https://github.com/user-attachments/assets/356d8c84-9de6-4c6f-9cf1-630f13e69069
 
-
+[Watch the demo](./result_video.mp4)
 
 
 🌟 Star this repository if you find it useful!
