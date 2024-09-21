@@ -38,7 +38,10 @@ The project follows these key steps:
 ## 🎥 Results
 
 Check out our system in action:
-[![Vehicle Speed Monitoring System Demo](./path_to_your_thumbnail_image.png)](./result_video.mp4)
+
+https://github.com/user-attachments/assets/356d8c84-9de6-4c6f-9cf1-630f13e69069
+
+
 
 
 🌟 Star this repository if you find it useful!
