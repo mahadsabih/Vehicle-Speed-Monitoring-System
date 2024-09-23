@@ -39,13 +39,8 @@ The project follows these key steps:
 
 Check out the system in action:
 
-https://github.com/user-attachments/assets/356d8c84-9de6-4c6f-9cf1-630f13e69069
-
-[Watch the demo](./result_video.mp4)
 
 ![result_video (1)](https://github.com/user-attachments/assets/c9e181bc-7325-4919-abca-22e9f02f1c6b)
-
-https://github.com/user-attachments/assets/507f3bcc-2f0b-40ac-bbae-c80c80d7af7d
 
 
 🌟 Star this repository if you find it useful!
